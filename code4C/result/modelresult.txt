@@ -1,0 +1,36 @@
+
+
+////////////////////【bestStart】///////////////////////////
+01_epoch110: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.342973
+02_epoch126: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.061769
+03_epoch5: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.310268
+04_epoch124: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.129192
+05_epoch0: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.312523
+06_epoch1: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.016031
+07_epoch95: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.131779
+08_epoch126: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.175614
+09_epoch0: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.099628
+10_epoch5: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.480373
+11_epoch149: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.327375
+12_epoch73: testACC=1.000000,  testUF1=1.000000,  testUAR=1.000000 ; testLoss=0.326336
+13_epoch0: testACC=1.000000,  testUF1=1.000000,  testUAR=1.000000 ; testLoss=0.480461
+14_epoch8: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.251593
+15_epoch89: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.147845
+16_epoch3: testACC=1.000000,  testUF1=1.000000,  testUAR=1.000000 ; testLoss=0.274030
+17_epoch0: testACC=0.941176,  testUF1=0.939048,  testUAR=0.974359 ; testLoss=0.311328
+18_epoch1: testACC=0.833333,  testUF1=0.619048,  testUAR=0.583333 ; testLoss=2.933090
+19_epoch1: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.217810
+20_epoch97: testACC=1.000000,  testUF1=1.000000,  testUAR=1.000000 ; testLoss=0.467418
+21_epoch0: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.238116
+22_epoch6: testACC=1.000000,  testUF1=0.000000,  testUAR=0.000000 ; testLoss=0.013602
+23_epoch125: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.229558
+24_epoch30: testACC=0.875000,  testUF1=0.858586,  testUAR=0.944444 ; testLoss=0.510542
+25_epoch0: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.142128
+26_epoch100: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.048863
+27_epoch6: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.045399
+28_epoch0: testACC=1.000000,  testUF1=0.333333,  testUAR=0.333333 ; testLoss=0.027553
+29_epoch7: testACC=1.000000,  testUF1=0.000000,  testUAR=0.000000 ; testLoss=0.004405
+30_epoch125: testACC=1.000000,  testUF1=0.666667,  testUAR=0.666667 ; testLoss=0.046267
+31_epoch5: testACC=0.600000,  testUF1=0.250000,  testUAR=0.333333 ; testLoss=3.037262
+////////////////////【bestEnd】///////////////////////////
+
