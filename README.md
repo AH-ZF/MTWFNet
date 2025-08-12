@@ -60,7 +60,7 @@ Saved in ./result/modelpth
 Training the 4-class data by using the following command:
 ```Bash  
 cd “Code Path”
-nohup python -u train.py > ./trainresult4C.log 2>&1 &
+nohup python -u train4C.py > ./trainresult4C.log 2>&1 &
 ```
 
 ### Testing the best model for MTWFNet
