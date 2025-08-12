@@ -41,13 +41,13 @@ For other environment requirements, please see the requirements.txt document und
 
 Firstly,calculate u,v,os,maguv using preprocess.py
 
-The dataset and txt file format are as follows:
+The dataset in dataset4C. 
+The label4Cn1.txt file format are as follows:
 *sub01
    **01/samp01/u.jpg,01/samp01/v.jpg,01/samp01/textu.jpg,01/samp01/gemof.jpg,01/samp01/rgb.jpg,datasetECGn1/01_1_winlen1handF.txt,0
 
 *sub02
    **……
-label4Cn1.txt
 ……
 
 ###Best Model Parameters
