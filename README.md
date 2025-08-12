@@ -47,7 +47,7 @@ The dataset and txt file format are as follows:
 
 *sub02
    **……
-
+label4Cn1.txt
 ……
 
 ###Best Model Parameters
