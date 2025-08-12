@@ -52,7 +52,7 @@ The dataset and txt file format are as follows:
 
 ###Best Model Parameters
 
-Saved in ./result/modelpth
+Saved in ./result/modelpth and modelresult.txt
 
 
 ### Training and Testing the MTWFNet
