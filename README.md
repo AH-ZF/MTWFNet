@@ -2,20 +2,7 @@
 A New Method for Multimodal Micro-Expression Recognition
 
 ### requirements
-certifi==2023.7.22
-charset-normalizer==3.2.0
-cmake==3.27.4.1
-contourpy==1.1.0
-cycler==0.11.0
 dlib==19.24.2
-filelock==3.12.3
-fonttools==4.42.1
-idna==3.4
-importlib-resources==6.0.1
-Jinja2==3.1.2
-kiwisolver==1.4.5
-lit==17.0.0rc4
-MarkupSafe==2.1.3
 matplotlib==3.7.2
 mpmath==1.3.0
 networkx==3.1
