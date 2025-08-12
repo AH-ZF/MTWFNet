@@ -46,9 +46,8 @@ Firstly,calculate u,v,os,maguv using preprocess.py
 > *sub01
    **01/samp01/u.jpg,01/samp01/v.jpg,01/samp01/textu.jpg,01/samp01/gemof.jpg,01/samp01/rgb.jpg,datasetECGn1/01_1_winlen1handF.txt,0
 
-*sub02
-   **……
-……
+> *sub02
+   ……
 
 ###Best Model Parameters
 
