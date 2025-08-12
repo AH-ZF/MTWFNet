@@ -56,7 +56,7 @@ Firstly,calculate u,v,os,maguv using preprocess.py
 
 The dataset and txt file format are as follows:
 *sub01
-   **sub01/EP02_01f/u.jpg,sub01/EP02_01f/v.jpg,sub01/EP02_01f/os.jpg,sub01/EP02_01f/maguv.jpg,1
+   **01/samp01/u.jpg,01/samp01/v.jpg,01/samp01/textu.jpg,01/samp01/gemof.jpg,01/samp01/rgb.jpg,datasetECGn1/01_1_winlen1handF.txt,0
 
 *sub02
    **……
