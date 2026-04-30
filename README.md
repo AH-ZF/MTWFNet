@@ -62,7 +62,7 @@ nohup python -u train4C.py > ./result/your_log_file_name.log 2>&1 &
 #### 4. Test the model
 Directly run the _last_test_ script file to analyze the model's test results. Simultaneously record various evaluation metrics, such as Accuracy, F1 score, UF1 score, UAR, confusion matrix diagrams, hyperparameter optimization curves, and sensitivity curves,etc.
 ```
-python /last_test.py
+python ./last_test.py
 ```
 #### 5. Other evaluation metrics are calculated separately.
 - The _resultAnalysis_ script can also compute the PR and ROC curves for test samples to further analyze model performance. These are not provided separately here; they can be directly configured and implemented within the _test_ script.
